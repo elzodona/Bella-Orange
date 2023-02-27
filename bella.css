@@ -119,10 +119,10 @@ body>div:nth-child(2)>div:nth-child(5)>div:nth-child(2) {
 body>div:nth-child(2)>div:nth-child(6) {
     background-image: url("2telephones.png");
     background-repeat: no-repeat;
-    background-size: 30em;
+    background-size: 35em 35em;
     background-position: center;
     position: relative;
-    padding: 50rem 0rem 0rem 0rem;
+    padding: 45rem 0rem 0rem 0rem;
     bottom: 3.75rem;
 }
 
