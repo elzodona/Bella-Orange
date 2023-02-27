@@ -45,8 +45,9 @@ a{
     color: black;
 }
 
-
-
+.how{
+ color: black;
+}
 
 body>div:nth-child(2) {
     height: 28rem;
