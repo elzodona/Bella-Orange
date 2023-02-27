@@ -46,7 +46,7 @@ a{
 }
 
 .how{
- color: black;
+ color: var(--rougeor);
 }
 
 body>div:nth-child(2) {
